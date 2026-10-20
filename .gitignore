@@ -1,0 +1,8 @@
+# 本地保存的微信读书页面快照（静态 HTML，仅供调试选择器，不包含 JS）
+*微信读书*.html
+
+# 系统 / 编辑器杂项
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
